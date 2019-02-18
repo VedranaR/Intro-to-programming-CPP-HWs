@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Zadaca1.cpp
+d:\c++\intro to programming - hws\hw1\zadaca1\zadaca1\zadaca1.cpp(95): warning C4244: 'return': conversion from 'double' to 'char', possible loss of data
+d:\c++\intro to programming - hws\hw1\zadaca1\zadaca1\zadaca1.cpp(98): warning C4244: 'return': conversion from 'double' to 'char', possible loss of data
+d:\c++\intro to programming - hws\hw1\zadaca1\zadaca1\zadaca1.cpp(101): warning C4244: 'return': conversion from 'double' to 'char', possible loss of data
+d:\c++\intro to programming - hws\hw1\zadaca1\zadaca1\zadaca1.cpp(104): warning C4715: 'vrstaTrokuta': not all control paths return a value
+  Zadaca1.vcxproj -> D:\C++\Intro to programming - HWs\HW1\Zadaca1\Debug\Zadaca1.exe
