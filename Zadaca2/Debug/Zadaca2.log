@@ -1,1 +1,3 @@
-﻿LINK : fatal error LNK1168: cannot open D:\C++\Zadaca2\Debug\Zadaca2.exe for writing
+﻿  pch.cpp
+  Zadaca2.cpp
+  Zadaca2.vcxproj -> D:\C++\Zadaca2\Debug\Zadaca2.exe
